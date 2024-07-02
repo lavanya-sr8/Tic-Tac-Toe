@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This python code plays the game in place of the user by selecting the best possible move against the opponent (PC), making an intelligent choice
+This python code plays the game in place of the user by selecting the best possible move against the opponent (PC), making an intelligent choice. The search strategy used by this code is greedy best-first search.
 
 It uses the following heuristic to evaluate the best choice for every move:
 
